@@ -1,0 +1,22 @@
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.deps.json
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.runtimeconfig.json
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.runtimeconfig.dev.json
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.dll
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.pdb
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.csprojAssemblyReference.cache
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.csproj.CoreCompileInputs.cache
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.AssemblyInfoInputs.cache
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.AssemblyInfo.cs
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.dll
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.pdb
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.deps.json
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.runtimeconfig.json
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.runtimeconfig.dev.json
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.dll
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/bin/Debug/netcoreapp2.1/Lab3_ConditionalStatements.pdb
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.csprojAssemblyReference.cache
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.csproj.CoreCompileInputs.cache
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.AssemblyInfoInputs.cache
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.AssemblyInfo.cs
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.dll
+/Users/Mace/Desktop/DotNET/ProjectsRe-Done/Lab3_ConditionalStatements/obj/Debug/netcoreapp2.1/Lab3_ConditionalStatements.pdb
